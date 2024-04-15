@@ -1,6 +1,6 @@
 {
   "name": "geolocation",
-  "repository": "https://github.com/vercel/examples.git",
+  "repository": "https://rodrigocelio.github.io/geolocation.io/",
   "license": "MIT",
   "private": true,
   "scripts": {
